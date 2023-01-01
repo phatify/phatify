@@ -1,4 +1,4 @@
- ## “Be curious. Read widely. Try new things. What people call intelligence just boils down to curiosity.” ― Aaron Swartz
+ ## “把孤獨當作晚餐卻難以下嚥”
 
   <div align="center">
      <img src="https://github.com/phatify/phatify/blob/main/lofi-smoke.gif" width="100%" height="auto"/>
