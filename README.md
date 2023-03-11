@@ -1,7 +1,7 @@
- ## <div align="center">“把孤獨當作晚餐卻難以下嚥”</div>
+ ## <div align="center">“Apple love Orange”</div>
 
   <div align="center">
-     <img src="https://github.com/phatify/phatify/blob/main/lofi-smoke.gif" width="100%" height="auto"/>
+     <img src="https://github.com/phatify/phatify/blob/main/apple.jpg" width="100%" height="auto"/>
   </div>
   
   <div align="right">
